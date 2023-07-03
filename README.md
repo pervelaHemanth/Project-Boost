@@ -10,4 +10,6 @@ The controls are that you can use the main thruster with the SpaceBar while the 
 
 ## Thank You!
 
+*P.S. I was not able to fix the bug in Space Jam which im very sad about. The Game was working as expected in the Editor but the Build was acting weird. Just a bit more experience would prevent these errors.*
+
 
