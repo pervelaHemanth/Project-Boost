@@ -6,6 +6,8 @@ I Implemented a few new techniwues like responsive UI, Level Transitions(Im yet 
 
 Right now i have made only 2 levels.
 
+The controls are that you can use the main thruster with the SpaceBar while the left and right thrusters that rotate the rocket can be accessed using A or D keys
+
 ## Thank You!
 
 
